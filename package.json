@@ -1,0 +1,15 @@
+{
+  "name": "caesar-cipher-cli-tool",
+  "version": "1.0.0",
+  "description": "Node.js Caesar cipher CLI tool",
+  "main": "caesar-cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@ospas312",
+  "license": "MIT",
+  "homepage": "https://github.com/ospas312/caesar-cipher-cli-tool",
+  "dependencies": {
+    "commander": "^7.2.0"
+  }
+}
